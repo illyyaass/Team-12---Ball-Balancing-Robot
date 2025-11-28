@@ -15,11 +15,11 @@ The **Ball Balancing System** is an automated control project designed to stabil
 | Name | Role |
 |------|------|
 | **Abdurakhmon Sobitkhanov** | [cite_start]Team Leader & Embedded Systems [cite: 12, 13] |
-| **Nihad Hayani** | [cite_start]Control Systems [cite: 15] |
-| **Ilyass Elmamouni** | [cite_start]Image Processing [cite: 16] |
-| **Mohamed Osman** | [cite_start]Mechanic Design [cite: 17] |
-| **Imed Tavil** | [cite_start]Mechanic Design [cite: 19] |
-| **Talal Soufi** | [cite_start]Electrician [cite: 18] |
+| **Nihad Hayani** | Control Systems  |
+| **Ilyass Elmamouni** | Image Processing  |
+| **Mohamed Osman** | Mechanic Design  |
+| **Imed Tavil** | Mechanic Design|
+| **Talal Soufi** | Electrician |
 
 ---
 
