@@ -13,7 +13,7 @@ This project was developed by **Group 2 Team 12**.
 ## 👥 Team Members
 | Name | Role |
 |------|------|
-| **Abdurakhmon Sobitkhanov** | Team Leader & Embedded Systems |
+| **Abdurakhmon Sobitkhanov** | Embedded Systems |
 | **Nihad Hayani** | Control Systems |
 | **Ilyass Elmamouni** | Image Processing |
 | **Mohamed Osman** | Mechanic Design |
